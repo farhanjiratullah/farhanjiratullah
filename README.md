@@ -12,6 +12,16 @@ web applications and solving real-world problems.
 - Database: MySQL
 - Tools: Git, GitHub, Docker
 
+📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=farhanjiratullah&show_icons=true&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanjiratullah&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
+
 ### Connect with me
 
 - LinkedIn: [https://www.linkedin.com/in/farhanjiratullah/]
