@@ -14,11 +14,7 @@ web applications and solving real-world problems.
 
 📊 GitHub Stats
 
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=farhanjiratullah&theme=dark)](https://git.io/streak-stats)
-
-</div>
 
 ### Connect with me
 
