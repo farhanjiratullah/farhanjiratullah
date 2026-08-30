@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi, I'm Farhan Jiratullah 👋
 
-<!--
-**farhanjiratullah/farhanjiratullah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Undergraduate of Computer Science | Full-Stack Developer
 
-Here are some ideas to get you started:
+I'm an Informatics Engineering graduate passionate about building
+web applications and solving real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+- Backend: PHP, Laravel
+- Frontend: Vue.js, JavaScript, Blade
+- Database: MySQL
+- Tools: Git, GitHub, Docker
+
+### Connect with me
+
+- LinkedIn: [https://www.linkedin.com/in/farhanjiratullah/]
+- Email: [farhanjiratullah794@gmail.com]
