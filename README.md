@@ -16,9 +16,7 @@ web applications and solving real-world problems.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=farhanjiratullah&show_icons=true&theme=dark&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhanjiratullah&layout=compact&theme=dark&hide_border=true"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=farhanjiratullah&theme=dark)](https://git.io/streak-stats)
 
 </div>
 
