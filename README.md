@@ -18,5 +18,5 @@ web applications and solving real-world problems.
 
 ### Connect with me
 
-- LinkedIn: [https://www.linkedin.com/in/farhanjiratullah/]
-- Email: [farhanjiratullah794@gmail.com]
+- LinkedIn: https://www.linkedin.com/in/farhanjiratullah/
+- Email: farhanjiratullah794@gmail.com
