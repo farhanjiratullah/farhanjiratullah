@@ -8,9 +8,9 @@ web applications and solving real-world problems.
 ### Tech Stack
 
 - Backend: PHP, Laravel
-- Frontend: Vue.js, JavaScript, Blade
-- Database: MySQL
-- Tools: Git, GitHub, Docker
+- Frontend: Vue.js, Nuxt.js, JavaScript, Blade
+- Database: MySQL, PostgreSQL
+- Tools: Git, GitHub, GitLab, Docker, RabbitMQ
 
 📊 GitHub Stats
 
