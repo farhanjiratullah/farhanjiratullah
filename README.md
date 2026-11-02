@@ -9,8 +9,10 @@ web applications and solving real-world problems.
 
 - Backend: PHP, Laravel
 - Frontend: Vue.js, Nuxt.js, JavaScript, Blade
-- Database: MySQL, PostgreSQL
+- Database & Caching: MySQL, PostgreSQL, Redis
+- Testing: Pest, PHPUnit
 - Tools: Git, GitHub, GitLab, Docker, RabbitMQ
+- Operating Systems: Linux, Windows
 
 📊 GitHub Stats
 
